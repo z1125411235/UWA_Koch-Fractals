@@ -1,0 +1,8 @@
+版本:Unity 2018.4.14f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5c75a8eb72745c25a82402ff?fbclid=IwAR0b4DqJ3JzyGAADOEnLnAseSUCgS-kB88EGnU83vRP9pxuX0LSMnxf2iXM
+
+官方Github網址__https://github.com/hww/koch_fractals
+
+本人Github網址__https://github.com/z1125411235/Koch-Fractals
+
